@@ -19,7 +19,7 @@
 						</div>
 						<div class="col">
 							<form class ="form-signin" method="POST">
-								<button class="btn btn-light btn-outline-dark"> <a href="login.php"> Jรก sou Cadastrado </a> </button>
+								<button class="btn btn-light btn-outline-dark"> <a href="login.php"> Já sou Cadastrado </a> </button>
 							</form>
 						</div>
 					</div>
